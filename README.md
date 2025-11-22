@@ -63,7 +63,6 @@ Daily Java assignments — 5 programs each
 - SQL + Authentication  
 - CRUD apps  
 
-*(Repo links add karte jao)*
 
 ---
 
@@ -76,8 +75,8 @@ Daily Java assignments — 5 programs each
 ---
 
 ## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](inkedin.com/in/prashant-todmal-067a18368/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/prashant9260)
 
 ---
 
